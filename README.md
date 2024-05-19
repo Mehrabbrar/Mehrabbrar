@@ -1,5 +1,5 @@
 # Contact Information
-**Mehrab Brar _yeah baby_**<br/>
+**Mehrab Brar **<br/>
 *mehrabbrar786@gmail.com*<br/>
 6823078704
 # Technologies

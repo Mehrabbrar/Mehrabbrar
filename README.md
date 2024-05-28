@@ -1,5 +1,5 @@
 # Contact Information
-**Mehrab Brar **<br/>
+Mehrab Brar <br/>
 *mehrabbrar786@gmail.com*<br/>
 6823078704
 # Technologies
@@ -8,11 +8,9 @@
 - HTML
 - [Python](https://docs.python.org/3/)
 - Ruby
-# UnOrdered Items
-* Item 1
-* Item 2
-  * Item 2a
-  * Item
+Hobbies
+field hockey
+
 # Ordered Items
 1. Item 1
 1. Item 2
@@ -37,9 +35,8 @@ green | 0x0000ff | my color
 - 👋 Hi, I’m @Mehrabbrar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-  
+- [
+](https://www.instagram.com/minkwyd/)  
 
 <!---
 Mehrabbrar/Mehrabbrar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

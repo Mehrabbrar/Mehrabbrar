@@ -3,20 +3,14 @@ Mehrab Brar <br/>
 *mehrabbrar786@gmail.com*<br/>
 6823078704
 # Technologies
-- [Java](https://docs.oracle.com/en/java/)
+- Java
 - Javascript
 - HTML
-- [Python](https://docs.python.org/3/)
-- Ruby
+- Python
+
 Hobbies
 field hockey
 
-# Ordered Items
-1. Item 1
-1. Item 2
-   1. Item 2a
-   1. Item 2b
-1. Item 3
 # Table
 Color | RGB | Comment
 ------|-----|--------
@@ -36,7 +30,8 @@ green | 0x0000ff | my color
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - [
-](https://www.instagram.com/minkwyd/)  
+[INSTAGRAM](https://www.instagram.com/minkwyd/)
+
 
 <!---
 Mehrabbrar/Mehrabbrar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

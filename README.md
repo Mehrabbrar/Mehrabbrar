@@ -8,8 +8,8 @@ Mehrab Brar <br/>
 - HTML
 - Python
 
-Hobbies
-field hockey
+# Hobbies
+- Field hockey
 
 # Table
 Color | RGB | Comment
